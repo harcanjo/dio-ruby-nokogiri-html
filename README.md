@@ -1,2 +1,3 @@
-# dio-ruby-nokogiri-html
-Analisando Páginas HTML em Ruby com a Biblioteca Nokogiri
+# Analisando Páginas HTML em Ruby com a Biblioteca Nokogiri
+
+Exemplo de WebScrap com a gem Nokogiri filtrando a tag p.
